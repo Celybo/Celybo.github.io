@@ -1,5 +1,5 @@
 // Se crea el lienzo donde se carga el juego
-var game = new Phaser.Game(800, 600, Phaser.AUTO, '');
+var game = new Phaser.Game(800, 600, Phaser.AUTO, 'game');
 
 // Se crean los estados del juego
 game.state.add('boot', bootState);
