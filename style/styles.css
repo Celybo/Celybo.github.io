@@ -1,0 +1,7 @@
+/* Centrar el juego */
+
+canvas {
+    display: block;
+    margin: auto;
+    font-family: 'Chewy', sans-serif;
+}
